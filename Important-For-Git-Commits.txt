@@ -1,0 +1,1 @@
+In any git command where 'origin' is required, replace with 'master'.
